@@ -3,7 +3,7 @@ const app = new Vue(
         el: "#root",
         data: {
             titolo: "qwerty",
-            immagine: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmultiplayer.it%2Fgiochi%2Fdota-2-per-pc.html&psig=AOvVaw1XjlaewIguwOi_mnIB6LTz&ust=1631889441667000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiqxofcg_MCFQAAAAAdAAAAABAD",
+            immagine: "https://cdn.cloudflare.steamstatic.com/steam/apps/570/ss_e0a92f15a6631a8186df79182d0fe28b5e37d8cb.1920x1080.jpg?t=1630016563",
         }
     }
 )
